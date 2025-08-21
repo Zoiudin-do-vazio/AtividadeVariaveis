@@ -18,4 +18,4 @@ public class Main {
         System.out.println("Soma das idades " + idadeSoma);
         System.out.println("Altura Dobrada " + alturaMultiplicada);
     }
-    }
+}
